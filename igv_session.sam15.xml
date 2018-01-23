@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="/home/rudoli/Desktop/PharmGWAS_Project/Test/TEST.GENOM.Loaded15.fasta" hasGeneTrack="false" hasSequenceTrack="true" locus="SNP15:1-466" path="/home/rudoli/Desktop/PharmGWAS_Project/Test/igv_session.sam15.xml" version="8">
+    <Resources>
+        <Resource path="/home/rudoli/Desktop/PharmGWAS_Project/Test/Aligned15.SorTed.bam"/>
+    </Resources>
+    <Panel height="2970" name="Panel1516732483273" width="1516">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;112454.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/home/rudoli/Desktop/PharmGWAS_Project/Test/Aligned15.SorTed.bam_coverage" name="Aligned15.SorTed.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="112454.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="60" id="/home/rudoli/Desktop/PharmGWAS_Project/Test/Aligned15.SorTed.bam_junctions" name="Aligned15.SorTed.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="EXPANDED" featureVisibilityWindow="-1" fontSize="10" id="/home/rudoli/Desktop/PharmGWAS_Project/Test/Aligned15.SorTed.bam" name="Aligned15.SorTed.bam" sortable="true" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="105" name="FeaturePanel" width="1516">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.009022556390977444,0.8345864661654135"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
