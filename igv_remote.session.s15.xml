@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="https://raw.githubusercontent.com/rudongithub/GVIS/master/TEST.GENOM.Loaded15.fasta" hasGeneTrack="false" hasSequenceTrack="true" locus="SNP1:1-466" path="/home/rudoli/Desktop/PharmGWAS_Project/igv_remote.session.s15.xml" version="8">
+    <Resources>
+        <Resource index="https://de.cyverse.org/dl/d/16761865-077E-4841-BC1F-0A2843040187/Aligned15.SorTed.bam.bai" path="https://de.cyverse.org/dl/d/84C8F724-65BD-4F84-BF65-E60A3E1FD9CA/Aligned15.SorTed.bam"/>
+    </Resources>
+    <Panel height="3082" name="Panel1516899452656" width="1516">
+        <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;383110.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="https://de.cyverse.org/dl/d/84C8F724-65BD-4F84-BF65-E60A3E1FD9CA/Aligned15.SorTed.bam_coverage" name="Aligned15.SorTed.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="383110.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="60" id="https://de.cyverse.org/dl/d/84C8F724-65BD-4F84-BF65-E60A3E1FD9CA/Aligned15.SorTed.bam_junctions" name="Aligned15.SorTed.bam Junctions" sortable="false" visible="false" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="EXPANDED" featureVisibilityWindow="-1" fontSize="10" id="https://de.cyverse.org/dl/d/84C8F724-65BD-4F84-BF65-E60A3E1FD9CA/Aligned15.SorTed.bam" name="Aligned15.SorTed.bam" sortable="true" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="64" name="FeaturePanel" width="1516">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.009022556390977444,0.8962406015037594"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
